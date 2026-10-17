@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: f863d0eaa39318247869b462d736e158
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 7
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 184583
+  packageName: SynthWave Sci-Fi Music Pack
+  packageVersion: 2.0
+  assetPath: Assets/SynthwaveMusicVolumeI/Music_Puffs.wav
+  uploadId: 763773

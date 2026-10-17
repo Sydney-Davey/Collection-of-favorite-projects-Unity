@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4d0e0ffc7a6c1bf44b435e0b23260f8c
+timeCreated: 1462575266
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62565
+  packageName: Farland Skies - Simple Cumulus
+  packageVersion: 1.0
+  assetPath: Assets/SimpleCumulus/Skyboxes/Gradient/SimpleCumulus_Gradient_01/SimpleCumulus_Gradient_01.mat
+  uploadId: 117352
